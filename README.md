@@ -14,5 +14,13 @@ Bu proje, temelde villa satışı ve kiralaması gerçekleştirilen firma web si
 Projede kullanılan teknoloji ve mimari yaklaşımlar sayesinde kod tabanı güçlü bir yapıya kavuşmuş olup, genişletilebilir ve sürdürülebilir bir çözüm sunulmuştur.
 
 
+![image](https://github.com/user-attachments/assets/60f2be61-c09c-4e32-9469-c17d5fe62501)
+![image](https://github.com/user-attachments/assets/1b98d93e-6ed4-4594-a8b7-9d66ada745c2)
+![image](https://github.com/user-attachments/assets/42d71ce4-c31d-4c8b-8b8f-deea2e8605f5)
+![image](https://github.com/user-attachments/assets/77decb4d-ecbd-4a7d-ae95-0b18914a7f45)
+![image](https://github.com/user-attachments/assets/ceaccb28-1e19-4c64-864a-6009be7b7153)
+![image](https://github.com/user-attachments/assets/6c78161c-2949-4241-8db9-e08ec7f81f8d)
+
+
 
 
